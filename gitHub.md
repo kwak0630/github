@@ -186,23 +186,43 @@ git branch
 - git init : git 저장소 만드는 명령어
 
 - git status : 저장소의 상태 확인 하는 명령어 (이름, 추가/변경 된 파일 및 디렉토리 목록)
+
 - git add : 파일이나 디렉토리를 인덱스에 추가하는 데 사용하는 명령어
+
 - git commit : 추가 된 파일이나 폴더의 내용을 저장소에 쓸 때 사용하는 명령어
+
 - git branch 
   - git branch [name] : [name]브랜치 만들기
   - git branch : 브랜치 목록 보기
   - git branch -d [name] : [name]브랜치 삭제
+  
 - git checkout : 로컬 저장소의 브랜치를 전환할 때 사용하는 명령어
+
 - git log : 로컬 저장소의 커밋 히스토리를 탐색하는 데 사용하는 명령어
+
 - git grep : 저장소의 파일 내용에서 검색하고 할 때 사용하는 명령어
+
 - git clone : 기존 원격 저장소를 로컬에 다운로드 하기 위하여 사용하는 명령어
   
   - git clone [url]
+  
 - git remote 
   - git remote : 원격 저장소의 이름 목록의 표시
   - git remote -v  : 자세한 목록 보기
   - git remote add [url] : 원격 저장소 추가
   - git remote rm [url] : 원격 저장소 제거
+  
 - git reset : 로컬 저장소의 커밋을 취소하기 위하여 사용하는 명령어
+
 - git merge : 현재 브랜치에 다른 지점에서 변경 사항을 병합하는데 사용하는 명령어 
+
 - git pull : 원격 브랜치의 변경 사용을 캡쳐하기 위해 사용하는 명령어
+
+- git help : 명령어를 잊어버렸을 경우 도움 명령어
+
+- history : 히스토리 명령어
+
+- ls
+
+  - ls : 목록 보여주는 명령어
+  - ls -al : 전체 목록 보여주는 명령어
