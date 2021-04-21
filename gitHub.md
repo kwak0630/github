@@ -127,7 +127,7 @@ hello2.html 파일을 만듭니다.
 
 ```
 git add hello2.html
-git add -m "new file2"
+git commit -m "new file2"
 git push origin dev
 ```
 
